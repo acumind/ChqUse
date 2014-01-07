@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ChqUse</string>
+    <string name="UseYourPhone">Lock Unlock Your Phone</string>
+    <string name="service_name">ChqUse Service</string>
+    <string name="title">ChqUse Counters</string>
+    <string name="lockUnlockLabel">Lock/Unlock</string>
+    <string name="screenOnOffLabel">ON/OFF</string>
+    <string name="screenOnOffValue">Value</string>
+    <string name="lockUnlockValue">Value</string>
+    <string name="btnRefreshLabel">Refresh</string>
+    <string name="btnResetLabel">Reset</string>
+
+</resources>
