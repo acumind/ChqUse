@@ -11,5 +11,6 @@
     <string name="lockUnlockValue">Value</string>
     <string name="btnRefreshLabel">Refresh</string>
     <string name="btnResetLabel">Reset</string>
+    <string name="splashImageContentDesc">Splash Image </string>
 
 </resources>
